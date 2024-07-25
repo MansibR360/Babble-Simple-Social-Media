@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#00275f</color>
+    //Intro
+    <color name="indicator">#0047ab</color>
+    <color name="indicator_def">#7FA3D5</color>
+    <color name="bluesalt">#003f97</color>
+    <color name="bluesugar">#0047ab</color>
+    <color name="cmntitem">#161F3D</color>
+    <color name="cmntcolor">#000000</color>
+    <color name="comentop">#fff</color>
+
+
+</resources>

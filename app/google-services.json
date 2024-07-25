@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "287612700019",
+    "firebase_url": "https://socialmedia-mansib-default-rtdb.firebaseio.com",
+    "project_id": "socialmedia-mansib",
+    "storage_bucket": "socialmedia-mansib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287612700019:android:241981a8224fe4ef727106",
+        "android_client_info": {
+          "package_name": "com.mansib.androidmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287612700019-faocvv7mii10iqvfqd8javdb9vm0af70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdeqEwxboJZWTL5T0E6Qn1gzOjgB8JTqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287612700019-faocvv7mii10iqvfqd8javdb9vm0af70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287612700019:android:a98ee96d6024584b727106",
+        "android_client_info": {
+          "package_name": "com.mansibyasir.officialchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287612700019-eu0ka2ntp3c2a8j9pcjip2osb703j5sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mansibyasir.officialchat",
+            "certificate_hash": "83d6b0536bb0209b83e23b0f6d5154f4f5f72f3d"
+          }
+        },
+        {
+          "client_id": "287612700019-faocvv7mii10iqvfqd8javdb9vm0af70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdeqEwxboJZWTL5T0E6Qn1gzOjgB8JTqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287612700019-faocvv7mii10iqvfqd8javdb9vm0af70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

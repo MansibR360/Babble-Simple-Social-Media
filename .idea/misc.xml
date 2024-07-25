@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout-v21/activity_final.xml" value="0.13729508196721313" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/activity_add_participants.xml" value="0.11612021857923498" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/activity_add_story.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/activity_final.xml" value="0.21" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/activity_generate_o_t_p.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/activity_profile_search.xml" value="0.11577868852459017" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/activity_splash_screen.xml" value="0.13729508196721313" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/activity_story_view.xml" value="0.13729508196721313" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/activity_user_profile.xml" value="0.11577868852459017" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/chatlist.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/fragment_bio.xml" value="0.13729508196721313" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/fragment_group.xml" value="0.13729508196721313" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/fragment_home.xml" value="0.21" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/fragment_link.xml" value="0.13729508196721313" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/more_group_bottom_sheet.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/notification.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/post.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/row_chat_left.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/row_chat_right.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/row_comment.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/row_group_left.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/share_bottom_sheet.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/share_vid_bottom_sheet.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/story_item.xml" value="0.15" />
+        <entry key="..\:/Android Studio Projects/Babble Backup/Backup_Babble/Babble_B1/app/src/main/res/layout/user_display.xml" value="0.15" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="ibm-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
